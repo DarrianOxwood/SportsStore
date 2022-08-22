@@ -1,0 +1,16 @@
+D:\GitHub\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\GitHub\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\GitHub\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\GitHub\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\GitHub\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.AssemblyReference.cache
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
+D:\GitHub\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\GitHub\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+D:\GitHub\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\bower.json
